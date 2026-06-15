@@ -82,7 +82,7 @@ export default function App() {
                     >
                         <h1 className="text-5xl md:text-8xl font-black mb-6 tracking-tight leading-none bg-gradient-to-r from-[#FF9933] via-white to-[#128807] bg-clip-text text-transparent italic opacity-90">
                             <span className="block">Help Government</span>
-                            <span className="block"> TO Sanika </span>
+                            <span className="block"> is on the way </span>
                         </h1>
 
                         <p className="text-lg md:text-2xl text-white/70 font-light max-w-2xl mx-auto mb-10 leading-relaxed">
